@@ -68,6 +68,13 @@ Restarted **Microsoft Edge** after review.
 - **Credential Harvesting** – Some malicious extensions are designed to capture usernames and passwords as they are entered on websites. This can lead to unauthorized access to corporate systems, email accounts, and other critical resources. 
 - Some Malicious Extension Incidents: [Cyberhaven Incident](https://www.darktrace.com/blog/cyberhaven-supply-chain-attack-exploiting-browser-extensions), [Nano Adblocker and Nano Defender](https://www.zdnet.com/article/google-removes-two-chrome-ad-blockers-caught-collecting-user-data/)
 
+&nbsp;
+
+## Ways to Mitigate the Risks of Malicious Browser Extensions
+- **Browser Security Solutions** – Deploying robust browser security solutions can help detect and block malicious activities associated with browser extensions. These solutions can provide real-time risk scoring, monitoring, and alerting, helping to mitigate threats before they cause significant damage.
+- **Regular Audits** – Regular audits of installed browser extensions across the organization can help identify and remove any that are unauthorized or potentially malicious. IT departments should stay informed about the latest threats and update their policies accordingly.
+- **Employee Education** – Educating employees about the risks associated with browser extensions and providing guidelines on safe practices can help reduce the likelihood of malicious extensions being installed. This includes advising against installing extensions from untrusted sources and encouraging prompt reporting of any suspicious behavior.
+
 ---
 
 ## End Result
